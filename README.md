@@ -1,10 +1,4 @@
-On a personal level, I am highly motivated to apply my skills and
-expertise to interesting and rewarding projects for myself As growth
-potential, I prefer to develop my skills mostly in Go. I love to work
-and also love to learn new things. Learning new things is like a fun.
-I can spend lot's of time for leaning and implementing and exploring
-new things.
-
+I am a Software Engineer with more than five years of experience in building scalable software solutions and microservices using GoLang, Python, GraphQL, and gRPC. Moreover, with the knowledge of AWS, Kubernetes, Docker, I have managed to improve and optimize both operational systems and user interfaces even under critical conditions and all requirements. My excellent system always developed and delivered not only on time but also of high quality.
 <!---
 zonieedhossain/zonieedhossain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
