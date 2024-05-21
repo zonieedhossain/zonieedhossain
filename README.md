@@ -1,4 +1,4 @@
-I am a Software Engineer with more than five years of experience in building scalable software solutions and microservices using GoLang, Python, GraphQL, and gRPC. Moreover, with the knowledge of AWS, Kubernetes, Docker, I have managed to improve and optimize both operational systems and user interfaces even under critical conditions and all requirements. My excellent system always developed and delivered not only on time but also of high quality.
+Accomplished Software Engineer with over five years of experience in designing and developing scalable software solutions and microservices. I am proficient in Golang, Python, MicroServices, GraphQL, and gRPC. Familiar with AWS, Kubernetes, and Docker, I have leveraged these technologies in past projects to enhance operational systems and user interfaces under critical conditions, consistently delivering high-quality solutions on time.
 
 Programing Language: 
 ```
