@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zonieedhossain)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zonieedhossain)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zonieed.uap@gmail.com)
 
 Senior Software Engineer specializing in Backend Development and Cloud Architecture
 
@@ -29,7 +29,7 @@ mindmap
       MySQL
       ArangoDB
       Redis
-    Cloud & DevOps
+    Cloud and DevOps
       AWS
       GCP
       Docker
