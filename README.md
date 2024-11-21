@@ -1,153 +1,89 @@
-<div align="center">
+# Hi there, I'm Zonieed! 👋
 
-<img src="/api/placeholder/1500/300" alt="banner image" />
+Senior Software Engineer skilled in designing and developing scalable software solutions and microservices.
 
-# Hi there, I'm Zonieed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zonieedhossain)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/zonieedhossain)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zonieedhossain)
-[![GitHub](https://img.shields.io/badge/GitHub-2F333A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zonieedhossain)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5757?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+## 🚀 Tech Stack
 
-### 👨‍💻 Senior Software Engineer | 🌟 Cloud Solutions Architect
+### Languages & Frameworks
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Chi](https://img.shields.io/badge/Chi-00ADD8?style=flat-square)
+![Echo](https://img.shields.io/badge/Echo-00ADD8?style=flat-square)
 
-</div>
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=flat-square)
 
-## 🎯 Expertise Areas
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-```mermaid
-mindmap
-    root((Technical<br/>Expertise))
-        Backend
-            Golang
-            Python
-            GraphQL
-        Cloud & DevOps
-            AWS
-            GCP
-            Kubernetes
-        Database
-            PostgreSQL
-            MySQL
-            Redis
-        Architecture
-            Microservices
-            Event-Driven
-            Clean Code
-    style root fill:#3B82F6,stroke:#1E40AF
-```
+## 📊 GitHub Stats
 
-## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zonieedhossain&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zonieedhossain&theme=github-dark-blue" alt="GitHub Streak" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zonieedhossain&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&count_private=true" />
+## 💻 Most Used Languages
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zonieedhossain&theme=tokyonight&hide_border=true&background=00000000" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonieedhossain&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
 
-</div>
+## 🎯 Core Competencies
 
-## 💻 Tech Stack
+- **Backend Development**
+  - Microservices Architecture
+  - API Development
+  - System Design
+  - Performance Optimization
 
-<table>
-<tr>
-<td>
+- **Cloud & DevOps**
+  - Infrastructure as Code
+  - CI/CD Pipelines
+  - Container Orchestration
+  - Cloud Architecture
 
-### 🔵 Core Languages
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)](https://go.dev)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB)](https://python.org)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&color=E10098)](https://graphql.org)
-
-### 🟣 Frameworks
-[![gRPC](https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge&logo=google&logoColor=white&color=244c5a)](https://grpc.io)
-[![Chi](https://img.shields.io/badge/Chi-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)](https://go-chi.io)
-[![Echo](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=00C7B7)](https://echo.labstack.com)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=092E20)](https://www.djangoproject.com)
-
-</td>
-<td>
-
-### 🟢 Databases
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=316192)](https://postgresql.org)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)](https://mysql.com)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&color=DC382D)](https://redis.io)
-[![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=black&color=DDE072)](https://arangodb.com)
-
-### 🟡 Cloud & DevOps
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=FF9900)](https://aws.amazon.com)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)](https://cloud.google.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)](https://docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&color=326CE5)](https://kubernetes.io)
-
-</td>
-</tr>
-</table>
+- **Database & Caching**
+  - Database Design
+  - Query Optimization
+  - Caching Strategies
+  - Data Modeling
 
 ## 🌟 Featured Projects
 
-<div align="center">
+### Enterprise Microservices Platform
+- **Tech Stack:** Go, gRPC, PostgreSQL
+- **Description:** Scalable microservices architecture handling high-throughput transactions
+- **Features:** Load balancing, Service discovery, Monitoring
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Enterprise Microservices Platform</h3>
-<div align="center">
-<a href="project-link"><img src="/api/placeholder/400/200" width="400" alt="Project 1"/></a>
-<br>
-<br>
-<p>
-<a href="repo-link">
-<img src="https://img.shields.io/badge/Code-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="live-link">
-<img src="https://img.shields.io/badge/Live-FF5757?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+### Cloud Analytics Engine
+- **Tech Stack:** Python, AWS, Event-Driven
+- **Description:** Real-time data processing and analytics platform
+- **Features:** Stream processing, Event sourcing, Data warehousing
+
+## 📫 Get in Touch
+
+- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/zonieedhossain)
+- 📧 Email me at [your.email@gmail.com](mailto:your.email@gmail.com)
+- 🌐 Visit my [Portfolio](https://your-portfolio.com)
+
+---
+<p align="center">
+  <i>🚀 Building scalable solutions with passion and precision</i>
 </p>
-<p><strong>Go • gRPC • PostgreSQL</strong></p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">Cloud Analytics Engine</h3>
-<div align="center">
-<a href="project-link"><img src="/api/placeholder/400/200" width="400" alt="Project 2"/></a>
-<br>
-<br>
-<p>
-<a href="repo-link">
-<img src="https://img.shields.io/badge/Code-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="live-link">
-<img src="https://img.shields.io/badge/Live-FF5757?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-</p>
-<p><strong>Python • AWS • Event-Driven</strong></p>
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zonieedhossain&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true)
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:your.email@gmail.com">
-<img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/zonieedhossain">
-<img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-FF5757?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-```ascii
-🚀 Building scalable solutions with passion and precision 🎯
-```
-
-</div>
