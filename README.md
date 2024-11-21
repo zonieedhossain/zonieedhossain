@@ -80,8 +80,8 @@ Senior Software Engineer skilled in designing and developing scalable software s
 ## 📫 Get in Touch
 
 - 💼 Connect with me on [LinkedIn](https://linkedin.com/in/zonieedhossain)
-- 📧 Email me at [your.email@gmail.com](mailto:your.email@gmail.com)
-- 🌐 Visit my [Portfolio](https://your-portfolio.com)
+- 📧 Email me at [zonieed.uap@gmail.com](mailto:zonieed.uap@gmail.com)
+- 🌐 Visit my [Portfolio](https://www.zonieed.com)
 
 ---
 <p align="center">
