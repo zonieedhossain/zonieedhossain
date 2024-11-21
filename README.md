@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="/api/placeholder/1500/200" alt="banner" />
   <h1>Hi there 👋, I'm Zonieed</h1>
   <h3>Software Engineer | Microservices Architect | Cloud Solutions</h3>
 </div>
