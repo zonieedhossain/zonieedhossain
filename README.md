@@ -17,7 +17,7 @@ Senior Software Engineer with expertise in building scalable backend systems, de
 
 ### Database & Caching
 - PostgreSQL, MySQL, Redis, ArangoDB
-- Schema design, indexing, query optimization, and data modeling
+- Schema design, indexing, query optimization and data modeling
 
 ### Cloud & DevOps
 - AWS and Google Cloud Platform
@@ -30,7 +30,7 @@ Senior Software Engineer with expertise in building scalable backend systems, de
 
 - Scalable, modular system design
 - Performance tuning and problem-solving
-- Clean code, testing, and documentation practices
+- Clean code, testing and documentation practices
 - Mentorship and team collaboration
 
 ---
@@ -38,10 +38,10 @@ Senior Software Engineer with expertise in building scalable backend systems, de
 ## Featured Projects
 
 ### Enterprise Microservices Platform
-A distributed backend platform built with Go, gRPC, and PostgreSQL, supporting high-volume operations with load balancing, service discovery, and observability.
+A distributed backend platform built with Go, gRPC and PostgreSQL, supporting high-volume operations with load balancing, service discovery and observability.
 
 ### Cloud Analytics Engine
-A real-time data processing pipeline using Python and AWS services, featuring stream processing, event sourcing, and cloud data warehousing.
+A real-time data processing pipeline using Python and AWS services, featuring stream processing, event sourcing and cloud data warehousing.
 
 ---
 
@@ -54,4 +54,4 @@ A real-time data processing pipeline using Python and AWS services, featuring st
 
 ---
 
-*“I build clean, scalable systems with performance, purpose, and precision.”*
+*“I build clean, scalable systems with performance, purpose and precision.”*
