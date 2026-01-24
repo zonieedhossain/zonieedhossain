@@ -1,6 +1,6 @@
 # Hi, I'm Zonieed Hossain
 
-Senior Software Engineer with expertise in building scalable backend systems, designing microservices, and delivering high-performance applications. I enjoy solving complex architectural challenges and creating systems that are efficient, maintainable, and production-ready.
+Senior Software Engineer with expertise in building scalable backend systems, designing microservices and delivering high-performance applications. I enjoy solving complex architectural challenges and creating systems that are efficient, maintainable and production-ready.
 
 ---
 
@@ -8,7 +8,7 @@ Senior Software Engineer with expertise in building scalable backend systems, de
 
 ### Backend & API Development
 - Golang and Python
-- REST, gRPC, and GraphQL APIs
+- REST, gRPC and GraphQL APIs
 - Frameworks: Echo, Chi, Django
 
 ### Microservices & System Design
