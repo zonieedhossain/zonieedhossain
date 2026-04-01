@@ -1,6 +1,7 @@
 ## Hi, I'm Zonieed 👋
 
-Senior Backend Engineer specialising in Go-based distributed systems, event-driven microservices and consistency-critical backend infrastructure.
+Senior Backend Engineer specialising in Go-based distributed systems, 
+event-driven microservices and consistency-critical backend infrastructure.
 
 ---
 
@@ -26,6 +27,11 @@ Go · PostgreSQL · Kafka · NATS JetStream · gRPC · Redis · MongoDB · Docke
 
 ### 🚀 Open Source
 - [gocraft](https://github.com/zonieedhossain/gocraft) — CLI to scaffold production-ready Go microservices with Clean Architecture, ORM setup and Docker integration
+
+---
+
+### ✍️ Writing
+- [Kafka Inbox/Outbox in Go — Guaranteeing Exactly-Once Delivery in a Multi-Tenant ERP](https://dev.to/zonieedhossain)
 
 ---
 
