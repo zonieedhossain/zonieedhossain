@@ -1,6 +1,6 @@
 ## Hi, I'm Zonieed 👋
 
-Senior Backend Engineer specialising in Go-based distributed systems, 
+Senior Backend Engineer specialising in Go-based distributed systems,
 event-driven microservices and consistency-critical backend infrastructure.
 
 ---
@@ -31,7 +31,8 @@ Go · PostgreSQL · Kafka · NATS JetStream · gRPC · Redis · MongoDB · Docke
 ---
 
 ### ✍️ Writing
-- [Kafka Inbox/Outbox in Go — Guaranteeing Exactly-Once Delivery in a Multi-Tenant ERP](https://dev.to/zonieedhossain)
+- [How to Set Up Apache Kafka with Docker — A Beginner Friendly Guide](https://medium.com/@zonieed.uap/how-to-set-up-apache-kafka-with-docker-a-beginner-friendly-guide-95b0b8b649d2)
+- [Kafka Inbox/Outbox in Go — Guaranteeing Exactly-Once Delivery in a Multi-Tenant ERP](https://dev.to/md_zonieedhossain_d19709/kafka-inboxoutbox-in-go-guaranteeing-exactly-once-delivery-in-a-multi-tenant-erp-320k)
 
 ---
 
